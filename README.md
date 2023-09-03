@@ -25,4 +25,7 @@ That's all.
 - Click Favourite Button
 - Request New Identity
 
-dextools dextools-bot dextools-trending dextools-trending-bot
+dextools
+dextools-bot
+dextools-trending
+dextools-trending-bot
