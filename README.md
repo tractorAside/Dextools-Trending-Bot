@@ -24,3 +24,5 @@ That's all.
 - Click Contract Address
 - Click Favourite Button
 - Request New Identity
+
+dextools dextools-bot dextools-trending dextools-trending-bot
